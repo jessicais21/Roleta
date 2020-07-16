@@ -5,20 +5,20 @@ web.php te mostrará as rotinas
 
 localhost/roleta roda o projeto, cada vez que é atualizada a página, verá se a roleta tem algum desconto
 
-Na pasta de controllers:
+Na pasta de app/http/controllers:
 PagesController.php é o controle do sorteio, operadores lógicos para realização do sorteio
 
-Na pasta view:
+Na pasta resource/view:
 Roleta.blade.php é a view da roleta. 
 
 OBSERVAÇÃO:
 Tem um hello-world para teste
 
 A pasta raiz do projeto /
-Na pasta de controllers:
+Na pasta de app/http/controllers:
 PagesController.php tem uma função index pertencente ao hello world
 
-Na pasta views: 
+Na pasta resource/views: 
 welcome.blande.php responsável pelo hello world
 
 PARA FUNCIONAR O PROJETO:
