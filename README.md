@@ -25,3 +25,6 @@ Instalar o laravel e o composer e depois clone o projeto do github
 
 abra o terminal e entre na pasta do projeto para rodar o servidor: 
 php artisan serve
+
+SE DER ERRO EM RELAÇÃO AO NOME DO PROJETO:
+eu criei com o nome de hello-world no meu computador.
