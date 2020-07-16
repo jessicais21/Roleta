@@ -22,8 +22,7 @@ Na pasta views:
 welcome.blande.php responsável pelo hello world
 
 PARA FUNCIONAR O PROJETO:
-Instalar o laravel e o composer e
-clone o projeto do github
+Instalar o laravel e o composer e depois clone o projeto do github
 
 abra o terminal e entre na pasta do projeto para rodar o servidor: 
 php artisan serve
