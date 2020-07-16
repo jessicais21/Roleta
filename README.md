@@ -12,9 +12,8 @@ Na pasta resource/view:
 Roleta.blade.php é a view da roleta. 
 
 OBSERVAÇÃO:
-Tem um hello-world para teste
+Tem um hello-world para teste na pasta raiz do projeto /
 
-A pasta raiz do projeto /
 Na pasta de app/http/controllers:
 PagesController.php tem uma função index pertencente ao hello world
 
