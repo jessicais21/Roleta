@@ -30,8 +30,8 @@ SE DER ERRO EM RELAÇÃO AO NOME DO PROJETO:
 criei com o nome de hello-world
 
 OBSERVAÇÃO:
-git init
-git clone git@github.com:jessicais21/Roleta.git
+<p>git init</p>
+<ṕ>git clone git@github.com:jessicais21/Roleta.git</p>
 
 composer update
 renomear o arquivo .env.exemplo para .env
