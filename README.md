@@ -28,3 +28,13 @@ php artisan serve
 
 SE DER ERRO EM RELAÇÃO AO NOME DO PROJETO:
 criei com o nome de hello-world
+
+OBSERVAÇÃO:
+git init
+git clone git@github.com:jessicais21/Roleta.git
+
+composer update
+renomear o arquivo .env.exemplo para .env
+php artisan serve
+http://127.0.0.1:8000/roleta
+Conforme vai atualizando, vai modificando o resultado da roleta
