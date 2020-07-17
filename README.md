@@ -1,33 +1,22 @@
-Projeto da Roleta feito com framework laravel do php.
+<h1>Projeto da Roleta feito com framework laravel do php.</h1>
 
-Na pasta routes,
-web.php te mostrará as rotinas
+<h2>Na pasta routes</h2>
+<p>web.php te mostrará as rotinas</p>
 
-localhost/roleta roda o projeto, cada vez que é atualizada a página, verá se a roleta tem algum desconto
+<h2>Na pasta de app/http/controllers:</h2>
+<p>PagesController.php é o controle do sorteio, operadores lógicos para realização do sorteio<p>
+<p>cada operador random corresponde a um resultado da roleta</p>
 
-Na pasta de app/http/controllers:
-PagesController.php é o controle do sorteio, operadores lógicos para realização do sorteio
-
-Na pasta resource/view:
-Roleta.blade.php é a view da roleta. 
+<h2>Na pasta resource/view:</h2>
+<p>Roleta.blade.php é a view da roleta.</p> 
 
 OBSERVAÇÃO:
-Tem um hello-world para teste na pasta raiz do projeto /
+<h2>Na pasta de app/http/controllers:<h2>
+<p>PagesController.php tem uma função index pertencente ao hello world<p>
 
-Na pasta de app/http/controllers:
-PagesController.php tem uma função index pertencente ao hello world
+<h2>Na pasta resource/views:<h2> 
+    <p>welcome.blande.php responsável pelo hello world</p>
 
-Na pasta resource/views: 
-welcome.blande.php responsável pelo hello world
-
-PARA FUNCIONAR O PROJETO:
-Instalar o laravel e o composer e depois clone o projeto do github
-
-abra o terminal e entre na pasta do projeto para rodar o servidor: 
-php artisan serve
-
-SE DER ERRO EM RELAÇÃO AO NOME DO PROJETO:
-criei com o nome de hello-world
 
 OBSERVAÇÃO:
 <h2>fazer o clone do projeto</h2>
