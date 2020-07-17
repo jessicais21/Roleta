@@ -30,11 +30,17 @@ SE DER ERRO EM RELAÇÃO AO NOME DO PROJETO:
 criei com o nome de hello-world
 
 OBSERVAÇÃO:
+<h2>fazer o clone do projeto</h2>
 <p>git init</p>
-<ṕ>git clone git@github.com:jessicais21/Roleta.git</p>
+<p>git clone git@github.com:jessicais21/Roleta.git</p>
 
-composer update
-renomear o arquivo .env.exemplo para .env
-php artisan serve
-http://127.0.0.1:8000/roleta
-Conforme vai atualizando, vai modificando o resultado da roleta
+<h2>Atualizar o composer</h2>
+<p>composer update</p>
+
+<h2>renomer um arquivo</h2>
+<p>renomear o arquivo .env.exemplo para .env</p>
+
+<h2>rodar o servidor</h2>
+<p>php artisan serve</p>
+<p>http://127.0.0.1:8000/roleta</p>
+<p>Conforme vai atualizando, vai modificando o resultado da roleta</p>
