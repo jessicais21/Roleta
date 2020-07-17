@@ -6,19 +6,14 @@
 <h2>Na pasta de app/http/controllers:</h2>
 <p>PagesController.php é o controle do sorteio, operadores lógicos para realização do sorteio<p>
 <p>cada operador random corresponde a um resultado da roleta</p>
+<p>PagesController.php tem uma função index pertencente ao hello world<p>
 
 <h2>Na pasta resource/view:</h2>
 <p>Roleta.blade.php é a view da roleta.</p> 
-
-OBSERVAÇÃO:
-<h2>Na pasta de app/http/controllers:<h2>
-<p>PagesController.php tem uma função index pertencente ao hello world<p>
-
-<h2>Na pasta resource/views:<h2> 
-    <p>welcome.blande.php responsável pelo hello world</p>
+ <p>welcome.blande.php responsável pelo hello world</p>
 
 
-OBSERVAÇÃO:
+<h1>Erro na execução do projeto:</h1>
 <h2>fazer o clone do projeto</h2>
 <p>git init</p>
 <p>git clone git@github.com:jessicais21/Roleta.git</p>
